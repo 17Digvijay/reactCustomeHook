@@ -1,0 +1,12 @@
+.fantasy {
+    font-family: fantasy;
+  }
+
+  .monospace {
+    font-family: "Lucida Console", Courier, monospace;
+  }
+
+.Toggle button 
+{
+    margin: 1rem ;
+}
