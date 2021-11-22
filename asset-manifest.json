@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactCustomeHook/static/css/main.7b9a0cd3.chunk.css",
+    "main.js": "/reactCustomeHook/static/js/main.7cf59ab4.chunk.js",
+    "main.js.map": "/reactCustomeHook/static/js/main.7cf59ab4.chunk.js.map",
+    "runtime-main.js": "/reactCustomeHook/static/js/runtime-main.524a566d.js",
+    "runtime-main.js.map": "/reactCustomeHook/static/js/runtime-main.524a566d.js.map",
+    "static/js/2.6388aaa4.chunk.js": "/reactCustomeHook/static/js/2.6388aaa4.chunk.js",
+    "static/js/2.6388aaa4.chunk.js.map": "/reactCustomeHook/static/js/2.6388aaa4.chunk.js.map",
+    "static/js/3.64119384.chunk.js": "/reactCustomeHook/static/js/3.64119384.chunk.js",
+    "static/js/3.64119384.chunk.js.map": "/reactCustomeHook/static/js/3.64119384.chunk.js.map",
+    "index.html": "/reactCustomeHook/index.html",
+    "static/css/main.7b9a0cd3.chunk.css.map": "/reactCustomeHook/static/css/main.7b9a0cd3.chunk.css.map",
+    "static/js/2.6388aaa4.chunk.js.LICENSE.txt": "/reactCustomeHook/static/js/2.6388aaa4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactCustomeHook/static/media/back2.38164467.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.524a566d.js",
+    "static/js/2.6388aaa4.chunk.js",
+    "static/css/main.7b9a0cd3.chunk.css",
+    "static/js/main.7cf59ab4.chunk.js"
+  ]
+}
